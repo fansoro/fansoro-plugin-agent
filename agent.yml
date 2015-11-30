@@ -1,0 +1,13 @@
+name: Agent
+version: 1.0.0
+description: "The user agent plugin provides a simple way to detect the kind of device that made the request."
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-agent
+bugs: https://github.com/morfy-cms/morfy-plugin-agent/issues
+license: MIT
+
+# Plugin settings
+enabled: true
