@@ -4,9 +4,9 @@ description: "The user agent plugin provides a simple way to detect the kind of 
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-agent
-bugs: https://github.com/morfy-cms/morfy-plugin-agent/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-agent
+bugs: https://github.com/fansoro/fansoro-plugin-agent/issues
 license: MIT
 
 # Plugin settings

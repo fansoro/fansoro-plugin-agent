@@ -2,7 +2,7 @@
 The user agent plugin provides a simple way to detect the kind of device that made the request.   
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in templates
 
@@ -37,4 +37,4 @@ Detect specific device
 | enabled | true | or `false` to disable the plugin |
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-agent/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-agent/blob/master/LICENSE)
